@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "omartawfik.github-actions-vscode",
+    "teclado.vscode-nginx-format",
+    "shengchen.vscode-checkstyle",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "vscjava.vscode-java-pack",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "vscjava.vscode-gradle",
+    "naco-siren.gradle-language",
+    "ithildir.java-properties",
+    "foxundermoon.shell-format",
+    "timonwong.shellcheck",
+    "sonarsource.sonarlint-vscode",
+    "vscjava.vscode-spring-boot-dashboard",
+    "trunk.io",
+    "sandipchitale.vscode-gradle-ext"
+  ]
+}

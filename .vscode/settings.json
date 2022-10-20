@@ -1,0 +1,119 @@
+{
+  "yaml.customTags": [
+    "!Equals sequence",
+    "!FindInMap sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!Join sequence",
+    "!Ref",
+    "!Select sequence",
+    "!Split sequence",
+    "!Sub",
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!Base64",
+    "!Join",
+    "!Cidr",
+    "!Sub sequence",
+    "!ImportValue sequence",
+    "!Select",
+    "!Split"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m",
+  "java.autobuild.enabled": false,
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "java.format.settings.url": "${workspaceFolder}/src/main/resources/eclipse-java-google-style.xml",
+  "java.checkstyle.configuration": "${workspaceFolder}/config/checkstyle/checkstyle.xml",
+  "java.codeGeneration.toString.codeStyle": "STRING_BUILDER_CHAINED",
+  "java.codeGeneration.toString.skipNullValues": true,
+  "java.codeGeneration.useBlocks": true,
+  "java.completion.maxResults": 10,
+  "java.eclipse.downloadSources": true,
+  "java.format.settings.profile": "WearsafeStyle",
+  "java.implementationsCodeLens.enabled": true,
+  "java.import.generatesMetadataFilesAtProjectRoot": true,
+  "java.import.gradle.version": "7.5.1",
+  "java.checkstyle.version": "10.3.4",
+  "java.jdt.ls.androidSupport.enabled": "off",
+  "java.jdt.ls.protobufSupport.enabled": false,
+  "vscode-gradle-ext.dependencyUpdates": true,
+  "vscode-gradle-ext.dependencyUpdates.autoCheck": true,
+  "vscode-gradle-ext.dependencyInsight": true,
+  "vscode-gradle-ext.dependenciesConfiguration": true,
+  "sonarlint.rules": {
+    "java:S2696": {
+      "level": "off"
+    },
+    "java:S2142": {
+      "level": "off"
+    },
+    "java:S2699": {
+      "level": "off"
+    },
+    "typescript:S3776": {
+      "level": "off"
+    },
+    "typescript:S4138": {
+      "level": "off"
+    },
+    "typescript:S3735": {
+      "level": "off"
+    },
+    "java:S115": {
+      "level": "off"
+    },
+    "typescript:S2814": {
+      "level": "off"
+    },
+    "java:S1185": {
+      "level": "off"
+    },
+    "java:S1905": {
+      "level": "off"
+    },
+    "typescript:S4325": {
+      "level": "off"
+    },
+    "Web:AvoidCommentedOutCodeCheck": {
+      "level": "off"
+    },
+    "secrets:S6290": {
+      "level": "off"
+    },
+    "typescript:S4144": {
+      "level": "off"
+    },
+    "java:S1488": {
+      "level": "off"
+    },
+    "javascript:S4138": {
+      "level": "off"
+    },
+    "Web:TableHeaderHasIdOrScopeCheck": {
+      "level": "off"
+    },
+    "javascript:S1117": {
+      "level": "off"
+    },
+    "typescript:S1854": {
+      "level": "off"
+    },
+    "typescript:S5843": {
+      "level": "off"
+    },
+    "java:S3008": {
+      "level": "off"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+arguments=--init-script /var/folders/nd/8gwlyyh95xbclmt_8w92_jyc0000gn/T/init2856898520618893261.gradle
+auto.sync=true
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=~/.asdf/installs/java/openjdk-18
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
